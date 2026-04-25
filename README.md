@@ -12,6 +12,7 @@ Major:
 `Fix apply button and live reading of current pipewire settings`
 `Optional granular control of parameters`
 
+Minor: 
 `REAPER extension for basic controls (just sample rate and buffer size)`
 
 ## Disclaimers
