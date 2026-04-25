@@ -19,4 +19,4 @@ Minor:
 
 THIS IS VIBE CODED.  I am not a real programmer and as such AI was used to create this, therefore I do not promise quality, repeatability, or robustness.
 
-That said I use this myself for changing my sample rate and buffer size on Fedora.
+That said I use this myself for changing my sample rate and buffer size on Fedora.  If you think you can do better, feel free to message me here or on my discord metalman1245 or fork if you would rather create your own project. Though I personally hate fragmentation, so I would much rather you just get in contact with me and I will add you to this repo so you can push changes yourself.
