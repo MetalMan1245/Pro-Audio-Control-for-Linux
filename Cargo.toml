@@ -1,0 +1,8 @@
+[package]
+name = "pro-audio-control"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+relm4 = "0.7"
+gtk = { package = "gtk4", version = "0.7" }
