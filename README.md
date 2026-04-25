@@ -3,16 +3,16 @@ A utility that aims to replicate the functionality of Audio Midi Setup for macOS
 
 ## Current State
 
-Right now this is literally just two dropdowns for global Sample Rate and Buffer Size with an apply button that I'm not convinced does anything.  I mainly wanted to publish this as a reminder to myself to work on it more, I will flesh out the UI and documentation going forward but this is built with RUST.
+Right now this is literally just two dropdowns for global Sample Rate and Buffer Size with an apply button that I`m not convinced does anything.  I mainly wanted to publish this as a reminder to myself to work on it more, I will flesh out the UI and documentation going forward but this is built with RUST.
 
-## Feature Pool
+## Upcoming Features
 
 Major:
-'Add aggregate device control'
-'Fix apply button and live reading of current pipewire settings'
-'Optional granular control of parameters'
+`Add aggregate device control`
+`Fix apply button and live reading of current pipewire settings`
+`Optional granular control of parameters`
 
-'REAPER extension for basic controls (just sample rate and buffer size)'
+`REAPER extension for basic controls (just sample rate and buffer size)`
 
 ## Disclaimers
 
